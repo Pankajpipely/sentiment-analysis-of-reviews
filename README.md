@@ -6,3 +6,4 @@ This project is a web-based Sentiment Analysis tool built with Streamlit that co
 🔹 RoBERTa (A Robustly Optimized BERT Pretraining Approach) is a transformer-based deep learning model trained on a large corpus of Twitter data (cardiffnlp/twitter-roberta-base-sentiment), making it highly effective for context-aware sentiment classification.
 
 The app allows users to enter any text (such as product reviews, tweets, or feedback) and outputs the sentiment distribution (positive, negative, neutral) in percentages from both VADER and RoBERTa models.
+![image](https://github.com/Pankajpipely/sentiment-analysis-of-reviews/blob/c584a30ce1e53780526ca21f74ddc69be002f7ca/Screenshot%202025-08-17%20003715.png)
