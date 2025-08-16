@@ -1,0 +1,11 @@
+streamlit
+transformers
+torch
+scipy
+vaderSentiment
+pandas
+numpy
+matplotlib
+seaborn
+nltk
+tqdm
